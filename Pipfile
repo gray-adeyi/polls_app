@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 django = "*"
+django-polls = {path = "./django-polls-0.4.0.tar.gz"}
 
 [dev-packages]
 
